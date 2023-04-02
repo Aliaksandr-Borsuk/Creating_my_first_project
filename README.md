@@ -21,4 +21,4 @@
     
 Проведём более глубокий анализ.
 - анализ проведён в файле -   
- [анализ и подготовка данных ](...)  
+ [анализ и подготовка данных ](https://github.com/Aliaksandr-Borsuk/Creating_my_first_project/blob/main/data_analisis.ipynb)  
