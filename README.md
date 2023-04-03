@@ -13,22 +13,22 @@ Creating a telegram bot for predicting a disease based on a set of symptoms.
 ## Stages of project creation.  
 ### Data search.
   
-После поиска в открытых источниках было принято решение использовать следующий датасет -
+After searching in open sources, it was decided to use the following dataset -
   
 * [Disease Symptom Prediction](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset)  
    
-При беглом осмотре сделаны предварительные выводы:
-- датасет годится для проверки гипотезы о возможности предсказания болезни по известным симптомам.
-- датасет не новый данных по ковиду возможно нет.
-- релевантность датасета неизвестна.   
+At the first examination, preliminary conclusions were made:
+- the dataset is suitable for testing the hypothesis about the possibility of predicting the disease by known symptoms.
+- the dataset is not new, there may be no data on covid.
+- the relevance of the dataset is unknown. 
     
-Проведём более глубокий анализ.
-- анализ проведён в файле -   
- [анализ и подготовка данных ](https://github.com/Aliaksandr-Borsuk/Creating_my_first_project/blob/main/data_analisis.ipynb)  
- 
-По результатам анализа сделаны выволы:
-- предсказание болезни по симптомам задача решаемая.
-- подбор гиперпараметров моделей не требуется, т.к. важные метрики (accuracy и  recall ) достигают максимума с параметрами по дефолту.
+Let's do a deeper analysis.
+- the analysis was carried out in the file -  
+ [data analysis and preparation](data_analisis.ipynb)  
+  
+Based on the results of the analysis, conclusions are made:
+- predicting the disease by symptoms is a solvable task.
+- the selection of hyperparameters of models is not required, because important metrics (accuracy and recall) reach a maximum with default parameters.
 
-Можно приступать к созданию приложения.
-* [рождение телеграмм бота](https://github.com/Aliaksandr-Borsuk/Diagnostic_bot)
+You can start creating an application.
+* [building a telegram bot](https://github.com/Aliaksandr-Borsuk/Diagnostic_bot)
