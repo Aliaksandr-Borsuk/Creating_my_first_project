@@ -2,16 +2,16 @@
   
 <i>Read this in other languages:</i> [<b> Russian </b>](README_RU.md)    
    
-Создание телеграмм-бота для предсказания заболевания по набору симптомов.
-##  Проект ведётся в рамках трека ODS My First Data Project: от идеи к продукту.
+Creating a telegram bot for predicting a disease based on a set of symptoms.
+##  The project is done within the framework of the track: ODS My First Data Project: от идеи к продукту.
     
 * [My First Data Project](https://ods.ai/tracks/my_first_data_project)
 
-## Выбрана тема проекта
-* Задача №5 “Био1 медицина”
-  * Создать на основание публичных данных сервис, помогающий оценивать заболевания по симптомам.
-## Этапы создания проекта.  
-### Поиск данных.
+## The project topic has been selected
+* Task No. 5 “Bio1 medicine”
+  * Create a service based on public data that helps to assess diseases by symptoms.
+## Stages of project creation.  
+### Data search.
   
 После поиска в открытых источниках было принято решение использовать следующий датасет -
   
