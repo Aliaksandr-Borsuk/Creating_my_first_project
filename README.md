@@ -1,4 +1,7 @@
 # Creating_my_first_project
+  
+<i>Read this in other languages:</i> [<b> Russian </b>](README_RU.md)    
+   
 Создание телеграмм-бота для предсказания заболевания по набору симптомов.
 ##  Проект ведётся в рамках трека ODS My First Data Project: от идеи к продукту.
     
